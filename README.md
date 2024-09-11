@@ -11,7 +11,7 @@
   - [Configuring a RADIUS server with Windows](https://github.com/Kpierre03/RADIUS/blob/main/RADIUS.md)
 - <b>Cloud System Administration Labs </b>
   - [Managing Linux Networks](https://github.com/Kpierre03/LINUXNetworks/blob/main/README.md)
-  - [Deploying an Internal Instance](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Deploying an Internal Instance]()
   - [Organizing People and Resources](https://github.com/Kpierre03/OrganizingPeople/blob/main/Organize.md)
 ](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Certified Ethical Hacking Labs </b>
