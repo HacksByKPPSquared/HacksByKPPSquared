@@ -16,7 +16,7 @@
 - <b>Certified Ethical Hacking Labs </b>
   - [Analyzing Types of Web Application Attacks](https://github.com/Kpierre03/AnalyzeTypesOfWebAppAttacks/blob/main/README.md)
   - [Incident Response Procedures](https://github.com/Kpierre03/IncidentResponse?tab=readme-ov-file)
-  - [Password Cracking with Linux]()
+  - [Password Cracking with Linux](https://github.com/Kpierre03/PasswordCrackingWithLinux/blob/main/README.md)
   - [Reconnaissance with hping]()
 
 <h2>📜 Certifications :</h2>
