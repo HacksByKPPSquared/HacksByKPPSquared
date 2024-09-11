@@ -8,7 +8,7 @@
   - [Identifying & Analyzing Network/Host Intrusion Detection System (NIDS/HIDS) Alerts](https://github.com/Kpierre03/NIDS-HIDSAlerts/blob/main/README.md)
   - [Hiding a Hidden Message Within a Picture](https://github.com/Kpierre03/HidingAMessageInAPic)
   - [Using tcpdump to Capture and Analyze Network Traffic](https://github.com/joshmadakor1/AD_PS)
-  - [PKI Management with Windows](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Configuring a RADIUS server with Windows](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Cloud System Administration Labs </b>
   - [Managing Linux Networks](https://github.com/joshmadakor1/EncrypterPOC)
   - [Deploying an Internal Instance](https://github.com/joshmadakor1/DecrypterPOC)
