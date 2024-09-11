@@ -5,18 +5,19 @@
 
 - <b>Security+ Labs</b>
   
+  - [Configuring a RADIUS server with Windows](https://github.com/Kpierre03/RADIUS/blob/main/RADIUS.md) 
   - [Identifying & Analyzing Network/Host Intrusion Detection System (NIDS/HIDS) Alerts](https://github.com/Kpierre03/NIDS-HIDSAlerts/blob/main/README.md)
   - [Hiding a Hidden Message Within a Picture](https://github.com/Kpierre03/HidingAMessageInAPic)
   - [Using tcpdump to Capture and Analyze Network Traffic](https://github.com/joshmadakor1/AD_PS)
-  - [Configuring a RADIUS server with Windows](https://github.com/Kpierre03/RADIUS/blob/main/RADIUS.md)
+ 
 - <b>Cloud System Administration Labs </b>
-  - [Managing Linux Networks](https://github.com/Kpierre03/LINUXNetworks/blob/main/README.md)
   - [Deploying an Internal Instance](https://github.com/Kpierre03/DeployingAnInternalInstance/blob/main/README.md)
+  - [Managing Linux Networks](https://github.com/Kpierre03/LINUXNetworks/blob/main/README.md)
   - [Organizing People and Resources](https://github.com/Kpierre03/OrganizingPeople/tree/main)
 - <b>Certified Ethical Hacking Labs </b>
   - [Analyzing Types of Web Application Attacks](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Password Cracking with Linux](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Incident Response Procedures](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Password Cracking with Linux](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Reconnaissance with hping](https://github.com/user-attachments/assets/62aa787e-e709-4e0d-b2c8-b08ac29bfd6f)
 
 <h2>📜 Certifications :</h2>
