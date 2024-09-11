@@ -10,7 +10,7 @@
   - [Using tcpdump to Capture and Analyze Network Traffic](https://github.com/joshmadakor1/AD_PS)
   - [Configuring a RADIUS server with Windows](https://github.com/Kpierre03/RADIUS/blob/main/RADIUS.md)
 - <b>Cloud System Administration Labs </b>
-  - [Managing Linux Networks](https://github.com/Kpierre03/LINUXNetworks/blob/main/LINUX.md)
+  - [Managing Linux Networks](https://github.com/Kpierre03/LINUXNetworks/blob/main/README.md)
   - [Deploying an Internal Instance](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Certified Ethical Hacking Labs </b>
