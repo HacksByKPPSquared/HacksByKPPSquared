@@ -13,7 +13,6 @@
   - [Managing Linux Networks](https://github.com/Kpierre03/LINUXNetworks/blob/main/README.md)
   - [Deploying an Internal Instance]()
   - [Organizing People and Resources](https://github.com/Kpierre03/OrganizingPeople/blob/main/Organize.md)
-](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Certified Ethical Hacking Labs </b>
   - [Analyzing Types of Web Application Attacks](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Password Cracking with Linux](https://github.com/joshmadakor1/Algorithms-Practice)
