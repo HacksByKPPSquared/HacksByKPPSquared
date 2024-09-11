@@ -15,9 +15,9 @@
   - [Organizing People and Resources](https://github.com/Kpierre03/OrganizingPeople/tree/main)
 - <b>Certified Ethical Hacking Labs </b>
   - [Analyzing Types of Web Application Attacks](https://github.com/Kpierre03/AnalyzeTypesOfWebAppAttacks/blob/main/README.md)
-  - [Incident Response Procedures](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Password Cracking with Linux](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Reconnaissance with hping](https://github.com/user-attachments/assets/62aa787e-e709-4e0d-b2c8-b08ac29bfd6f)
+  - [Incident Response Procedures](https://github.com/Kpierre03/IncidentResponse?tab=readme-ov-file)
+  - [Password Cracking with Linux]()
+  - [Reconnaissance with hping]()
 
 <h2>📜 Certifications :</h2>
  <h3> - Security+</h3>
